@@ -1,2 +1,2 @@
-# 2clap
+# 2Clap
 2022 Data Viz Hackathon
