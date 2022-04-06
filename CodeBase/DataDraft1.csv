@@ -3,7 +3,7 @@
 1,2,"Less than $20,000","Leadership (Manager, Director, VP, etc)",No,6.0,bachelor,Man,Tanzania
 2,3,$120k - $140k,"Leadership (Manager, Director, VP, etc)",No,7.0,Masters,Man,United States
 3,4,$100k - $120k,"Leadership (Manager, Director, VP, etc)",Yes,5.0,bachelor,Man,United States
-4,6,$80k - $100k,Developer,Occasional,,Some College,Man,United States
+4,6,$80k - $100k,Developer,Occasional,,Other,Man,United States
 5,7,$100k - $120k,Analyst,Occasional,8.0,bachelor,Man,United States
 6,8,$20k - $40k,"Leadership (Manager, Director, VP, etc)",Occasional,25.0,PhD,Man,Greece
 7,9,$100k - $120k,Academic,Occasional,8.0,Masters,Man,United States
@@ -30,7 +30,7 @@
 31,33,$40k - $60k,Analyst,No,1.0,bachelor,Man,United States
 32,34,$20k - $40k,Analyst,No,2.0,bachelor,Man,Chile
 33,35,$40k - $60k,Analyst,No,3.0,Other,Man,Sweden
-34,36,"Less than $20,000",Analyst,No,5.0,None,Man,India
+34,36,"Less than $20,000",Analyst,No,5.0,Other,Man,India
 35,37,$80k - $100k,Analyst,No,4.0,Masters,Man,United States
 36,38,$80k - $100k,Analyst,No,4.0,bachelor,Man,United States
 37,39,$40k - $60k,Developer,No,5.0,bachelor,Man,United Kingdom
@@ -67,30 +67,30 @@
 69,71,$120k - $140k,Analyst,No,4.0,Masters,Man,Luxembourg
 70,72,$80k - $100k,Engineer,No,,bachelor,Man,India
 71,73,$60k - $80k,"Leadership (Manager, Director, VP, etc)",No,4.0,Masters,Man,India
-72,74,$80k - $100k,Analyst,No,7.0,Technical School,Man,
+72,74,$80k - $100k,Analyst,No,7.0,Other,Man,
 73,75,$60k - $80k,Analyst,No,1.0,Masters,Man,Canada
-74,76,$40k - $60k,Analyst,No,3.0,Technical School,Man,Germany
+74,76,$40k - $60k,Analyst,No,3.0,Other,Man,Germany
 75,77,$60k - $80k,Developer,No,3.0,Masters,Man,United States
-76,78,$100k - $120k,"Leadership (Manager, Director, VP, etc)",No,19.0,Technical School,Man,Germany
+76,78,$100k - $120k,"Leadership (Manager, Director, VP, etc)",No,19.0,Other,Man,Germany
 77,79,$180k - $200k,Analyst,No,12.0,bachelor,Man,Australia
 78,80,"Less than $20,000",Student,No,2.0,PhD,Man,Italy
 79,81,$120k - $140k,Engineer,No,10.0,Masters,Man,United States
 80,82,$20k - $40k,Analyst,No,3.0,bachelor,Man,Peru
 81,83,$60k - $80k,Analyst,No,3.0,Masters,Man,United States
 82,84,$60k - $80k,Analyst,No,1.0,Masters,Man,United States
-83,85,$40k - $60k,Analyst,No,3.0,Technical School,Man,United States
+83,85,$40k - $60k,Analyst,No,3.0,Other,Man,United States
 84,86,$60k - $80k,Analyst,No,1.0,Masters,Man,Japan
 85,87,$20k - $40k,Analyst,No,3.0,Masters,Man,United Kingdom
 86,88,$180k - $200k,Analyst,No,6.0,Masters,Man,United States
 87,89,$20k - $40k,"Leadership (Manager, Director, VP, etc)",No,13.0,bachelor,Man,Mexico
-88,90,$100k - $120k,Analyst,No,8.0,Technical School,Man,United States
+88,90,$100k - $120k,Analyst,No,8.0,Other,Man,United States
 89,91,$20k - $40k,Analyst,No,12.0,bachelor,Man,Brazil
 90,92,$60k - $80k,Analyst,No,2.0,Other,Man,South Africa
 91,93,$40k - $60k,Analyst,No,3.0,bachelor,Man,United States
 92,94,$40k - $60k,Analyst,No,2.0,bachelor,Man,United States
 93,95,$80k - $100k,Engineer,No,6.0,Masters,Man,Ireland
 94,96,$100k - $120k,"Leadership (Manager, Director, VP, etc)",No,13.0,Masters,Man,India
-95,97,$60k - $80k,Developer,No,10.0,Some College,Man,United States
+95,97,$60k - $80k,Developer,No,10.0,Other,Man,United States
 96,98,$40k - $60k,Analyst,No,1.0,bachelor,Man,United States
 97,99,$40k - $60k,Analyst,No,0.5,bachelor,Man,United States
 98,100,$60k - $80k,Analyst,No,0.5,Masters,Man,Germany
@@ -119,15 +119,15 @@
 122,124,$20k - $40k,Designer,No,6.0,Masters,Man,France
 123,125,$200k+,"Leadership (Manager, Director, VP, etc)",No,17.0,bachelor,Man,United States
 124,126,"Less than $20,000",Analyst,No,2.0,Masters,Man,Argentina
-125,127,$60k - $80k,Analyst,No,3.0,Technical School,Man,United Kingdom
+125,127,$60k - $80k,Analyst,No,3.0,Other,Man,United Kingdom
 126,128,$100k - $120k,Analyst,No,3.0,Masters,Man,United Kingdom
 127,129,$100k - $120k,Engineer,No,2.0,Masters,Man,United States
 128,130,$60k - $80k,"Leadership (Manager, Director, VP, etc)",No,3.0,Masters,Man,United Kingdom
 129,131,$40k - $60k,Analyst,No,2.0,bachelor,Man,United States
-130,132,"Less than $20,000",Analyst,No,2.0,Some College,Man,United Kingdom
+130,132,"Less than $20,000",Analyst,No,2.0,Other,Man,United Kingdom
 131,133,$60k - $80k,Analyst,No,1.0,Masters,Man,United States
-132,134,$140k - $160k,Analyst,No,7.0,Technical School,Man,United States
-133,135,"Less than $20,000",Analyst,No,2.0,Technical School,Man,Mexico
+132,134,$140k - $160k,Analyst,No,7.0,Other,Man,United States
+133,135,"Less than $20,000",Analyst,No,2.0,Other,Man,Mexico
 134,136,$40k - $60k,Academic,No,2.0,bachelor,Man,United States
 135,137,$60k - $80k,Analyst,No,2.0,bachelor,Man,United States
 136,138,$20k - $40k,Analyst,No,2.0,bachelor,Man,Malaysia
@@ -136,11 +136,11 @@
 139,141,$80k - $100k,Analyst,No,2.0,bachelor,Man,United States
 140,142,$40k - $60k,Student,No,3.0,Masters,Man,Canada
 141,143,$40k - $60k,Analyst,No,3.0,Masters,Man,Spain
-142,144,$40k - $60k,Analyst,No,2.0,Technical School,Man,United Kingdom
+142,144,$40k - $60k,Analyst,No,2.0,Other,Man,United Kingdom
 143,145,$40k - $60k,Analyst,No,0.0,Masters,Man,India
 144,146,$80k - $100k,Analyst,No,5.0,Masters,Man,United States
 145,147,$40k - $60k,Analyst,No,0.0,Masters,Man,United States
-146,148,$40k - $60k,Analyst,No,2.0,Technical School,Man,United States
+146,148,$40k - $60k,Analyst,No,2.0,Other,Man,United States
 147,149,$120k - $140k,Engineer,No,0.0,PhD,Man,United States
 148,150,$100k - $120k,Engineer,No,10.0,bachelor,Man,Canada
 149,151,$100k - $120k,Analyst,No,10.0,Masters,Man,United States
@@ -152,7 +152,7 @@
 155,157,$100k - $120k,Scientist,No,10.0,PhD,Man,Brazil
 156,158,$20k - $40k,Designer,No,4.0,bachelor,Man,Spain
 157,159,$80k - $100k,None of these describe my role,No,14.0,PhD,Man,New Zealand
-158,160,"Less than $20,000",Analyst,No,,Technical School,Man,Russia
+158,160,"Less than $20,000",Analyst,No,,Other,Man,Russia
 159,161,$140k - $160k,Analyst,No,0.0,bachelor,Man,United States
 160,162,$80k - $100k,Engineer,No,4.0,Masters,Man,United States
 161,163,"Less than $20,000",Engineer,No,9.0,Masters,Man,Brazil
@@ -164,7 +164,7 @@
 167,169,"Less than $20,000",Analyst,No,1.0,bachelor,Man,Russia
 168,170,$200k+,"Leadership (Manager, Director, VP, etc)",No,11.0,Masters,Man,United States
 169,171,$60k - $80k,Developer,No,4.0,Masters,Man,Finland
-170,172,$140k - $160k,"Leadership (Manager, Director, VP, etc)",No,2.0,None,Man,United States
+170,172,$140k - $160k,"Leadership (Manager, Director, VP, etc)",No,2.0,Other,Man,United States
 171,173,$20k - $40k,Scientist,No,5.0,PhD,Man,United States
 172,174,$200k+,Developer,No,10.0,PhD,Man,United States
 173,175,$60k - $80k,Analyst,No,3.0,Masters,Man,United Kingdom
@@ -189,8 +189,8 @@
 195,197,$40k - $60k,Engineer,No,3.0,Masters,Man,France
 196,198,"Less than $20,000",Scientist,No,1.0,bachelor,Man,Mexico
 197,199,$180k - $200k,Scientist,No,2.0,Masters,Man,United States
-198,200,$20k - $40k,Scientist,No,3.0,Technical School,Man,Estonia
-199,201,$120k - $140k,Designer,No,10.0,Some College,Man,United States
+198,200,$20k - $40k,Scientist,No,3.0,Other,Man,Estonia
+199,201,$120k - $140k,Designer,No,10.0,Other,Man,United States
 200,202,"Less than $20,000",Scientist,No,3.0,bachelor,Man,India
 201,203,$20k - $40k,Analyst,No,,Masters,Man,Russia
 202,204,$20k - $40k,Engineer,No,2.0,Masters,Man,Mexico
@@ -198,7 +198,7 @@
 204,206,$160k - $180k,Scientist,No,6.0,bachelor,Man,United States
 205,207,$20k - $40k,Analyst,No,,Masters,Man,
 206,208,$160k - $180k,Analyst,No,9.0,PhD,Man,Switzerland
-207,209,"Less than $20,000",Student,No,0.0,Technical School,Man,Brazil
+207,209,"Less than $20,000",Student,No,0.0,Other,Man,Brazil
 208,210,$120k - $140k,None of these describe my role,No,13.0,bachelor,Man,United States
 209,211,$40k - $60k,Analyst,No,5.0,bachelor,Man,United Kingdom
 210,212,$40k - $60k,Developer,No,1.0,bachelor,Man,United Kingdom
@@ -210,9 +210,9 @@
 216,218,"Less than $20,000",Analyst,No,5.0,bachelor,Man,India
 217,219,$60k - $80k,Developer,No,6.0,Masters,Man,United States
 218,220,$60k - $80k,Analyst,No,2.0,bachelor,Man,United States
-219,221,$140k - $160k,Designer,No,12.0,None,Man,United States
+219,221,$140k - $160k,Designer,No,12.0,Other,Man,United States
 220,222,$20k - $40k,Designer,No,2.0,Masters,Man,Italy
-221,223,$120k - $140k,Developer,No,1.0,None,Man,United States
+221,223,$120k - $140k,Developer,No,1.0,Other,Man,United States
 222,224,$140k - $160k,Engineer,No,7.0,PhD,Man,United States
 223,225,$20k - $40k,Engineer,No,3.0,Masters,Man,Colombia
 224,226,$20k - $40k,None of these describe my role,No,2.0,Masters,Man,Italy
@@ -238,7 +238,7 @@
 244,246,$40k - $60k,Designer,No,2.0,Masters,Man,Brazil
 245,247,$40k - $60k,Designer,No,7.0,Masters,Man,Italy
 246,248,$20k - $40k,Developer,No,1.0,Masters,Man,Belgium
-247,249,$80k - $100k,Developer,No,10.0,Technical School,Man,
+247,249,$80k - $100k,Developer,No,10.0,Other,Man,
 248,250,$40k - $60k,Developer,No,,Masters,Man,Germany
 249,251,$120k - $140k,Analyst,No,6.0,Masters,Man,United States
 250,252,$60k - $80k,None of these describe my role,No,2.0,bachelor,Man,United Kingdom
@@ -246,7 +246,7 @@
 252,254,$180k - $200k,"Leadership (Manager, Director, VP, etc)",No,20.0,PhD,Man,United States
 253,255,$80k - $100k,"Leadership (Manager, Director, VP, etc)",No,10.0,PhD,Man,United States
 254,256,$100k - $120k,"Leadership (Manager, Director, VP, etc)",No,8.0,Masters,Man,United States
-255,257,$140k - $160k,"Leadership (Manager, Director, VP, etc)",No,5.0,None,Man,United States
+255,257,$140k - $160k,"Leadership (Manager, Director, VP, etc)",No,5.0,Other,Man,United States
 256,258,$200k+,"Leadership (Manager, Director, VP, etc)",No,5.0,Other,Man,United States
 257,259,$120k - $140k,Designer,No,15.0,Masters,Man,United States
 258,260,$100k - $120k,"Leadership (Manager, Director, VP, etc)",No,5.0,Masters,Man,United States
@@ -264,7 +264,7 @@
 270,272,$180k - $200k,"Leadership (Manager, Director, VP, etc)",No,3.0,bachelor,Man,United States
 271,273,$20k - $40k,Analyst,No,1.0,Masters,Man,Chile
 272,274,$200k+,Engineer,No,30.0,bachelor,Man,United States
-273,275,$80k - $100k,Analyst,No,2.0,Technical School,Man,United States
+273,275,$80k - $100k,Analyst,No,2.0,Other,Man,United States
 274,276,$20k - $40k,Student,No,0.5,bachelor,Man,United States
 275,277,$80k - $100k,None of these describe my role,No,5.0,bachelor,Man,Netherlands
 276,278,$100k - $120k,Analyst,No,4.0,Masters,Man,Japan
@@ -283,7 +283,7 @@
 290,292,$20k - $40k,Developer,No,5.0,bachelor,Man,Italy
 291,293,$80k - $100k,Engineer,No,2.0,Masters,Man,Netherlands
 292,294,$60k - $80k,Developer,No,2.0,bachelor,Man,United States
-293,295,$140k - $160k,Developer,No,5.0,Some College,Man,United States
+293,295,$140k - $160k,Developer,No,5.0,Other,Man,United States
 294,296,$60k - $80k,Developer,No,3.0,bachelor,Man,United States
 295,297,$60k - $80k,Analyst,No,6.0,Masters,Man,United States
 296,298,$60k - $80k,Academic,No,5.0,PhD,Man,United States
@@ -325,10 +325,10 @@
 334,336,$60k - $80k,Analyst,No,4.0,Masters,Man,United States
 335,337,"Less than $20,000",Analyst,No,2.0,bachelor,Man,Hungary
 336,338,$60k - $80k,Analyst,No,2.0,bachelor,Man,Australia
-337,339,"Less than $20,000",Analyst,No,1.5,Technical School,Man,Uganda
+337,339,"Less than $20,000",Analyst,No,1.5,Other,Man,Uganda
 338,340,"Less than $20,000",Student,No,,PhD,Man,United States
 339,341,$20k - $40k,Designer,No,3.0,Masters,Man,Canada
-340,342,$40k - $60k,Analyst,No,3.0,Technical School,Man,United Kingdom
+340,342,$40k - $60k,Analyst,No,3.0,Other,Man,United Kingdom
 341,343,"Less than $20,000",Analyst,No,1.0,bachelor,Man,Dominican Republic
 342,344,$80k - $100k,"Leadership (Manager, Director, VP, etc)",No,3.0,bachelor,Man,United States
 343,345,$100k - $120k,Developer,No,10.0,Other,Man,United States
@@ -402,7 +402,7 @@
 411,413,$40k - $60k,"Leadership (Manager, Director, VP, etc)",No,7.0,Masters,Man,India
 412,414,$200k+,Engineer,No,5.0,Masters,Man,United States
 413,415,$80k - $100k,Analyst,No,5.0,Other,Man,India
-414,416,$180k - $200k,"Leadership (Manager, Director, VP, etc)",No,10.0,Some College,Man,United States
+414,416,$180k - $200k,"Leadership (Manager, Director, VP, etc)",No,10.0,Other,Man,United States
 415,417,$100k - $120k,Designer,No,8.0,bachelor,Man,United States
 416,418,$200k+,Designer,No,18.0,PhD,Man,United States
 417,419,$40k - $60k,Designer,No,5.0,Masters,Man,India
@@ -494,14 +494,14 @@
 506,508,$100k - $120k,"Leadership (Manager, Director, VP, etc)",No,5.0,bachelor,Man,United States
 507,509,$80k - $100k,Designer,No,12.0,Masters,Man,United States
 508,510,$40k - $60k,Analyst,No,5.0,Masters,Man,India
-509,511,$120k - $140k,"Leadership (Manager, Director, VP, etc)",No,8.0,Technical School,Man,China
+509,511,$120k - $140k,"Leadership (Manager, Director, VP, etc)",No,8.0,Other,Man,China
 510,512,$80k - $100k,Analyst,No,4.0,Masters,Man,United States
 511,513,$40k - $60k,Analyst,No,1.0,bachelor,Man,United Kingdom
 512,514,$160k - $180k,Designer,No,8.0,bachelor,Man,United States
 513,515,$120k - $140k,Analyst,No,4.0,PhD,Man,United States
 514,516,$80k - $100k,Analyst,No,5.0,bachelor,Man,New Zealand
 515,517,$40k - $60k,Scientist,No,0.0,PhD,Man,Italy
-516,518,"Less than $20,000",Analyst,No,6.0,Technical School,Man,Uganda
+516,518,"Less than $20,000",Analyst,No,6.0,Other,Man,Uganda
 517,519,$20k - $40k,Developer,No,5.0,Masters,Man,Poland
 518,520,$120k - $140k,Developer,No,10.0,Masters,Man,United States
 519,521,$100k - $120k,Engineer,No,12.0,bachelor,Man,Austria
@@ -514,10 +514,10 @@
 526,528,$80k - $100k,Engineer,No,3.0,Masters,Man,Austria
 527,529,$100k - $120k,Developer,No,2.0,bachelor,Man,United States
 528,530,$60k - $80k,Developer,No,0.5,Masters,Man,Germany
-529,531,$40k - $60k,Analyst,No,5.0,Some College,Man,United States
-530,532,$40k - $60k,Analyst,No,6.0,Some College,Man,United States
+529,531,$40k - $60k,Analyst,No,5.0,Other,Man,United States
+530,532,$40k - $60k,Analyst,No,6.0,Other,Man,United States
 531,533,$80k - $100k,Analyst,No,6.5,bachelor,Man,Japan
-532,534,$20k - $40k,Developer,No,1.0,Some College,Man,United States
+532,534,$20k - $40k,Developer,No,1.0,Other,Man,United States
 533,535,$60k - $80k,Developer,No,1.0,bachelor,Man,United States
 534,536,$100k - $120k,Developer,No,2.0,bachelor,Man,Australia
 535,537,$20k - $40k,Developer,No,2.0,Masters,Man,United Kingdom
@@ -529,7 +529,7 @@
 541,543,$120k - $140k,Engineer,No,2.0,bachelor,Man,United States
 542,544,$100k - $120k,Developer,No,10.0,bachelor,Man,United States
 543,545,$140k - $160k,Engineer,No,3.0,bachelor,Man,United States
-544,546,$80k - $100k,Developer,No,3.0,Some College,Man,United States
+544,546,$80k - $100k,Developer,No,3.0,Other,Man,United States
 545,547,$120k - $140k,Engineer,No,4.0,Other,Man,United States
 546,548,$140k - $160k,Developer,No,2.0,Masters,Man,United States
 547,549,$120k - $140k,Engineer,No,3.0,bachelor,Man,
@@ -574,9 +574,9 @@
 586,588,$120k - $140k,Engineer,No,,bachelor,Man,Germany
 587,589,$20k - $40k,Engineer,No,2.0,Masters,Man,Mexico
 588,590,$20k - $40k,"Leadership (Manager, Director, VP, etc)",No,5.0,Masters,Man,Mexico
-589,591,$40k - $60k,"Leadership (Manager, Director, VP, etc)",No,20.0,Technical School,Man,United States
+589,591,$40k - $60k,"Leadership (Manager, Director, VP, etc)",No,20.0,Other,Man,United States
 590,592,$60k - $80k,Engineer,No,4.0,Masters,Man,United States
-591,593,$120k - $140k,Developer,No,5.0,Technical School,Man,United States
+591,593,$120k - $140k,Developer,No,5.0,Other,Man,United States
 592,594,$140k - $160k,Analyst,No,5.0,Masters,Man,United States
 593,595,$40k - $60k,Designer,No,3.0,bachelor,Man,Netherlands
 594,596,$140k - $160k,Engineer,No,3.0,Masters,Man,United States
@@ -606,7 +606,7 @@
 620,622,$60k - $80k,Developer,No,2.0,Masters,Man,United Kingdom
 621,623,$40k - $60k,Designer,No,6.0,Other,Man,France
 622,624,$180k - $200k,Analyst,No,,bachelor,Man,United States
-623,625,$40k - $60k,Analyst,No,1.0,Technical School,Man,
+623,625,$40k - $60k,Analyst,No,1.0,Other,Man,
 624,626,$80k - $100k,Analyst,No,7.0,PhD,Man,United States
 625,627,"Less than $20,000",Academic,No,7.0,PhD,Man,India
 626,628,$80k - $100k,Analyst,No,5.0,Masters,Man,United Kingdom
@@ -672,7 +672,7 @@
 687,689,$120k - $140k,None of these describe my role,Yes,4.0,bachelor,Man,United Kingdom
 688,690,$100k - $120k,Analyst,Yes,2.0,Masters,Man,Australia
 689,691,$40k - $60k,Analyst,Yes,3.0,Masters,Man,Portugal
-690,692,$80k - $100k,Analyst,Yes,1.0,Technical School,Man,Canada
+690,692,$80k - $100k,Analyst,Yes,1.0,Other,Man,Canada
 691,693,$40k - $60k,Analyst,Yes,3.0,PhD,Man,United Kingdom
 692,694,$140k - $160k,Designer,Yes,0.0,Masters,Man,United States
 694,696,$100k - $120k,Developer,Yes,5.0,bachelor,Man,United States
@@ -721,7 +721,7 @@
 738,740,$20k - $40k,Academic,Yes,2.0,bachelor,Man,Mexico
 739,741,$80k - $100k,Analyst,Yes,5.0,Masters,Man,United States
 740,742,$60k - $80k,Developer,Yes,8.0,Masters,Man,Mexico
-741,743,$20k - $40k,Designer,Yes,6.0,Technical School,Man,United Kingdom
+741,743,$20k - $40k,Designer,Yes,6.0,Other,Man,United Kingdom
 742,744,$60k - $80k,Designer,Yes,15.0,bachelor,Man,Netherlands
 743,745,$20k - $40k,Developer,Yes,5.0,Masters,Man,Spain
 744,746,$60k - $80k,Analyst,Yes,5.0,Masters,Man,Canada
@@ -733,7 +733,7 @@
 750,752,$20k - $40k,Designer,Yes,6.0,PhD,Man,Belgium
 751,753,$120k - $140k,Developer,Yes,4.0,bachelor,Man,United States
 752,754,$80k - $100k,Analyst,Yes,20.0,PhD,Man,Bermuda
-753,755,"Less than $20,000",Designer,Yes,1.0,Technical School,Man,Colombia
+753,755,"Less than $20,000",Designer,Yes,1.0,Other,Man,Colombia
 754,756,$60k - $80k,Analyst,Yes,1.5,Masters,Man,Australia
 755,757,$80k - $100k,None of these describe my role,Yes,7.0,bachelor,Man,Canada
 756,758,$20k - $40k,"Leadership (Manager, Director, VP, etc)",Yes,17.0,Masters,Man,Kenya
@@ -791,17 +791,17 @@
 809,811,$100k - $120k,Developer,Yes,3.0,bachelor,Man,United States
 810,812,$140k - $160k,Analyst,Yes,6.0,bachelor,Man,United States
 811,813,$100k - $120k,Analyst,Yes,7.0,Masters,Man,United States
-812,814,$20k - $40k,Analyst,Yes,2.0,Technical School,Man,
+812,814,$20k - $40k,Analyst,Yes,2.0,Other,Man,
 813,815,$60k - $80k,Analyst,Yes,6.0,Masters,Man,
 814,816,$200k+,Developer,Yes,7.0,bachelor,Man,United States
 815,817,$200k+,Designer,Yes,7.0,bachelor,Man,United States
-816,818,$80k - $100k,Analyst,Yes,15.0,None,Man,United States
+816,818,$80k - $100k,Analyst,Yes,15.0,Other,Man,United States
 817,819,$60k - $80k,Designer,Yes,1.0,Masters,Man,United Kingdom
 818,820,$200k+,Analyst,Yes,1.0,bachelor,Man,United States
 819,821,$140k - $160k,Designer,Yes,4.0,Masters,Man,Switzerland
-820,822,$60k - $80k,Designer,Yes,8.0,Technical School,Man,United States
+820,822,$60k - $80k,Designer,Yes,8.0,Other,Man,United States
 821,823,$40k - $60k,Analyst,Yes,2.0,Masters,Man,United Kingdom
-822,824,"Less than $20,000",Developer,Yes,3.0,Technical School,Man,Kenya
+822,824,"Less than $20,000",Developer,Yes,3.0,Other,Man,Kenya
 823,825,$20k - $40k,Engineer,Yes,5.0,Masters,Man,United States
 824,826,$60k - $80k,Analyst,Yes,20.0,Masters,Man,Panama
 825,827,$100k - $120k,Developer,Yes,4.0,Masters,Man,United States
@@ -814,11 +814,11 @@
 833,835,$180k - $200k,"Leadership (Manager, Director, VP, etc)",Yes,15.0,Masters,Man,United States
 834,836,$20k - $40k,Designer,Yes,10.0,PhD,Man,Spain
 835,837,$80k - $100k,Scientist,Yes,,Masters,Man,United States
-836,838,$60k - $80k,Analyst,Yes,10.0,Technical School,Man,United States
+836,838,$60k - $80k,Analyst,Yes,10.0,Other,Man,United States
 837,839,$60k - $80k,None of these describe my role,Yes,4.0,Masters,Man,France
 838,840,$200k+,"Leadership (Manager, Director, VP, etc)",Yes,5.0,Masters,Man,United States
 839,841,$180k - $200k,Developer,Yes,25.0,PhD,Man,Australia
-840,842,$20k - $40k,"Leadership (Manager, Director, VP, etc)",Yes,,Technical School,Man,Spain
+840,842,$20k - $40k,"Leadership (Manager, Director, VP, etc)",Yes,,Other,Man,Spain
 841,843,$80k - $100k,Developer,Yes,10.0,Masters,Man,United Kingdom
 843,845,$100k - $120k,Designer,Yes,2.0,Masters,Man,United Kingdom
 844,846,"Less than $20,000",Academic,Yes,9.0,Masters,Man,Nigeria
@@ -833,8 +833,8 @@
 855,857,$60k - $80k,None of these describe my role,Unclear,3.0,Masters,Man,Sweden
 856,858,$140k - $160k,Designer,Unclear,2.0,bachelor,Man,United States
 857,859,$80k - $100k,Developer,Unclear,10.0,Masters,Man,United States
-858,860,$80k - $100k,Developer,Unclear,4.0,Technical School,Man,
-859,861,$160k - $180k,Engineer,No,20.0,Technical School,Other,United States
+858,860,$80k - $100k,Developer,Unclear,4.0,Other,Man,
+859,861,$160k - $180k,Engineer,No,20.0,Other,Other,United States
 860,862,$40k - $60k,Scientist,No,10.0,PhD,Other,Finland
 861,863,$40k - $60k,None of these describe my role,Occasional,10.0,Masters,Other,Canada
 862,864,$60k - $80k,Analyst,Yes,3.0,bachelor,Other,United States
@@ -924,7 +924,7 @@
 951,953,$200k+,"Leadership (Manager, Director, VP, etc)",No,5.0,PhD,Woman,United States
 952,954,$60k - $80k,Engineer,No,3.0,Masters,Woman,United States
 953,955,$80k - $100k,Analyst,No,2.0,PhD,Woman,United States
-954,956,$20k - $40k,None of these describe my role,No,2.0,Technical School,Woman,United States
+954,956,$20k - $40k,None of these describe my role,No,2.0,Other,Woman,United States
 955,957,$160k - $180k,Scientist,No,5.0,PhD,Woman,United States
 956,958,$60k - $80k,Analyst,No,3.0,PhD,Woman,United States
 957,959,$60k - $80k,Developer,No,5.0,bachelor,Woman,United Kingdom
@@ -1028,7 +1028,7 @@
 1057,1059,$40k - $60k,Designer,No,3.0,bachelor,Woman,United States
 1058,1060,$80k - $100k,Analyst,No,6.0,bachelor,Woman,Canada
 1059,1061,$80k - $100k,Analyst,No,2.0,bachelor,Woman,Australia
-1060,1062,$20k - $40k,Student,No,5.0,Technical School,Woman,Canada
+1060,1062,$20k - $40k,Student,No,5.0,Other,Woman,Canada
 1061,1063,$20k - $40k,Student,No,5.0,Masters,Woman,United States
 1062,1064,$20k - $40k,Student,No,,PhD,Woman,United States
 1063,1065,$20k - $40k,Student,No,3.0,bachelor,Woman,United States
@@ -1053,7 +1053,7 @@
 1082,1084,$60k - $80k,Analyst,No,2.0,bachelor,Woman,United States
 1083,1085,"Less than $20,000",Student,No,1.0,Masters,Woman,Sweden
 1084,1086,$40k - $60k,Engineer,No,10.0,Other,Woman,Italy
-1085,1087,$60k - $80k,None of these describe my role,No,4.0,Some College,Woman,United States
+1085,1087,$60k - $80k,None of these describe my role,No,4.0,Other,Woman,United States
 1086,1088,$20k - $40k,Analyst,No,0.4,Masters,Woman,United Kingdom
 1087,1089,"Less than $20,000",Analyst,No,1.0,bachelor,Woman,Mexico
 1088,1090,$120k - $140k,Developer,No,4.0,Masters,Woman,United States
@@ -1069,7 +1069,7 @@
 1098,1100,$20k - $40k,Designer,No,6.0,Masters,Woman,Italy
 1099,1101,"Less than $20,000",Analyst,No,1.0,Masters,Woman,Russia
 1100,1102,$20k - $40k,Designer,No,20.0,Masters,Woman,Spain
-1101,1103,$140k - $160k,"Leadership (Manager, Director, VP, etc)",No,20.0,Some College,Woman,United States
+1101,1103,$140k - $160k,"Leadership (Manager, Director, VP, etc)",No,20.0,Other,Woman,United States
 1102,1104,$40k - $60k,Designer,No,,Masters,Woman,United Kingdom
 1103,1105,$40k - $60k,Scientist,No,10.0,Masters,Woman,United States
 1104,1106,$60k - $80k,Analyst,No,4.0,Masters,Woman,United States
@@ -1083,7 +1083,7 @@
 1112,1114,$40k - $60k,Scientist,No,2.0,PhD,Woman,United States
 1113,1115,$80k - $100k,Academic,No,0.0,PhD,Woman,Australia
 1114,1116,"Less than $20,000",Scientist,No,4.0,PhD,Woman,Spain
-1115,1117,"Less than $20,000",Student,No,0.0,Technical School,Woman,
+1115,1117,"Less than $20,000",Student,No,0.0,Other,Woman,
 1116,1118,$60k - $80k,Analyst,No,4.0,bachelor,Woman,United States
 1117,1119,$180k - $200k,Analyst,No,4.0,Masters,Woman,Norway
 1119,1121,$100k - $120k,Analyst,No,20.0,Masters,Woman,United States
@@ -1137,12 +1137,12 @@
 1168,1170,$40k - $60k,Analyst,No,2.5,Masters,Woman,United Kingdom
 1169,1171,$80k - $100k,Analyst,No,11.0,bachelor,Woman,Singapore
 1170,1172,$40k - $60k,Analyst,No,,Masters,Woman,United Kingdom
-1171,1173,$100k - $120k,Designer,No,5.0,None,Woman,United States
+1171,1173,$100k - $120k,Designer,No,5.0,Other,Woman,United States
 1172,1174,$200k+,Developer,No,16.0,PhD,Woman,United States
 1173,1175,$80k - $100k,Designer,No,4.0,Masters,Woman,United States
 1174,1176,$100k - $120k,Designer,No,1.5,PhD,Woman,United States
 1175,1177,$120k - $140k,Engineer,No,7.0,bachelor,Woman,United States
-1176,1178,$140k - $160k,Developer,No,5.0,Some College,Woman,United States
+1176,1178,$140k - $160k,Developer,No,5.0,Other,Woman,United States
 1177,1179,$80k - $100k,Analyst,No,3.0,Masters,Woman,United States
 1178,1180,$20k - $40k,Analyst,No,6.0,bachelor,Woman,United Kingdom
 1179,1181,$40k - $60k,Analyst,No,5.0,Masters,Woman,United Kingdom
@@ -1155,7 +1155,7 @@
 1186,1188,$120k - $140k,Analyst,No,9.0,PhD,Woman,United States
 1187,1189,$60k - $80k,Designer,No,3.0,bachelor,Woman,United States
 1188,1190,$100k - $120k,Designer,No,25.0,bachelor,Woman,United States
-1189,1191,$60k - $80k,Developer,No,2.0,Some College,Woman,United States
+1189,1191,$60k - $80k,Developer,No,2.0,Other,Woman,United States
 1190,1192,$80k - $100k,Developer,No,0.0,bachelor,Woman,United States
 1191,1193,$40k - $60k,Engineer,No,4.0,Masters,Woman,Qatar
 1192,1194,$20k - $40k,Engineer,No,1.0,Masters,Woman,France
@@ -1207,7 +1207,7 @@
 1242,1245,$20k - $40k,None of these describe my role,Yes,3.0,PhD,Woman,Spain
 1243,1246,$40k - $60k,Academic,Yes,6.0,PhD,Woman,United States
 1244,1247,$140k - $160k,"Leadership (Manager, Director, VP, etc)",Yes,9.0,Masters,Woman,India
-1245,1248,$60k - $80k,"Leadership (Manager, Director, VP, etc)",Yes,25.0,Technical School,Woman,United States
+1245,1248,$60k - $80k,"Leadership (Manager, Director, VP, etc)",Yes,25.0,Other,Woman,United States
 1246,1249,$40k - $60k,Analyst,Yes,2.0,bachelor,Woman,Germany
 1248,1251,"Less than $20,000",Student,Yes,1.0,Other,Woman,Germany
 1249,1252,$80k - $100k,Analyst,Yes,6.0,Masters,Woman,United States
